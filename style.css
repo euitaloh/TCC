@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("fundo.jpg");
+    background-size: 100%;
+}
+
+ul{
+    list-style:none;
+}
+
+nav
+{
+    background-color: rgba(16,16,16,.5);
+    width: 250px;
+    height: 100%;
+}
+
+a{
+    display: block;
+    padding: 25px 5px;
+    color:white;
+}
+
+a:hover{
+    background-color: rgb(176,224,230);
+    color: black;
+}
